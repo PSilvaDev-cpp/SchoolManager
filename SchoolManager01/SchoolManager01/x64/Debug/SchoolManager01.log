@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\peter\source\repos\SchoolManager01\SchoolManager01\Course.hpp(67,117): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'main.cpp')
+  
+  SchoolManager01.vcxproj -> C:\Users\peter\source\repos\SchoolManager01\x64\Debug\SchoolManager01.exe
